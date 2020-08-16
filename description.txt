@@ -1,2 +1,1 @@
-Sharp_Photo_Realism_324 256px [99%]
-(Converted from Sharp_Photo_Realism_324 with Minetest Texture and Resource Pack Converter)
+SharpNet Photo Realism 64px
