@@ -1,14 +1,14 @@
-Minetest SharpNet photo realism texturespack
+## Minetest SharpNet photo realism texturespack
 
 It's Photo Realism pack with few mod support.
 
-Easiest way to get it know is to try it.
+_Easiest way to get it know is to try it._
 
 Mods support: * Ethereal * Farming * More Trees * More Ores * Baked Clay * Flowers * Crops * Hardened Clay * Basic Materials * Technics And a lot more.. :)
 
-This texture pack is still in development, but pretty playable.
+_This texture pack is still in development, but pretty playable._
 
-License is Free License, except content used "with author permission" from: "hdx-64-master" texture pack from "VanessaE" where is: CC-By-SA / GPL.
+**License is Free License**, except content used "with author permission" from: "hdx-64-master" texture pack from "VanessaE" where is: CC-By-SA / GPL.
 
 Pictures:
 
